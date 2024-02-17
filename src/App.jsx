@@ -211,7 +211,7 @@ const obj = [
   },
 {
     id:23,
-    img:'https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner.png',
+    img:'https://www.guvi.in/blog/wp-content/uploads/2024/02/Feature-image-Top-CSS-Frameworks-for-Front-End-Developers-A-Comprehensive-Guide.webp',
     desc:'Cybersecurity Vs Ethical Hacking: Top 10 Differences',
     desc1:'Cybersecurity & Ethical hacking and have been key in making sure that your data online',
     course:'Cyber Security',
@@ -220,7 +220,7 @@ const obj = [
   },
 {
     id:24,
-    img:'https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif',
+    img:'https://www.guvi.in/blog/wp-content/uploads/2024/02/Feature-image-Top-Full-Stack-Development-Trends-What-to-Expect.webp',
     desc:'What is Cybersecurity? Importance and its uses & the growing challenges in 2023!',
     desc1:'Look around today, you will witness that we are more reliant on technology and devices',
     course:'Cyber Security',
@@ -229,7 +229,7 @@ const obj = [
   },
 {
     id:25,
-    img:'https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1.png',
+    img:'https://www.guvi.in/blog/wp-content/uploads/2024/02/Feature-image-Frontend-vs-Backend-Development-Top-Differences.webp',
     desc:'8 Different Types of Cybersecurity and Threats Involved',
     desc1:'Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from',
     course:'Cyber Security',
@@ -238,7 +238,7 @@ const obj = [
   },
 {
     id:26,
-    img:'https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif',
+    img:'https://www.guvi.in/blog/wp-content/uploads/2024/02/Feature-image-What-Does-a-Top-Backend-Developer-Do-The-Ultimate-Guide.webp',
     desc:'Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?',
     desc1:'Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well,',
     course:'Cyber Security',
@@ -247,7 +247,7 @@ const obj = [
   },
 {
     id:27,
-    img:'https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact.jpg',
+    img:'https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp',
     desc:'Top 7 Cyber Security Attacks in Real Life',
     desc1:'Cyber security attacks are the type of actions that are designed to destroy, steal, modify,',
     course:'Cyber Security',
@@ -256,7 +256,7 @@ const obj = [
   },
 {
     id:28,
-    img:'https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9.png',
+    img:'https://www.guvi.in/blog/wp-content/uploads/2023/11/FEATURE-IMAGE-1-3.webp',
     desc:'The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!',
     desc1:'There is something fascinating about a lone hacker in black hoodies using a single system',
     course:'Cyber Security',
@@ -274,7 +274,7 @@ const obj = [
   },
 {
     id:30,
-    img:'https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-e1614342903477.png',
+    img:'https://www.guvi.in/blog/wp-content/uploads/2023/11/top_product_based_companies_that_don_t_require_coding.webp',
     desc:'How Is Cyber Security Important To Our Lives?',
     desc1:'‍Cybersecurity is an exact solution that is sought either by a billionaire with a massive',
     course:'Cyber Security',
