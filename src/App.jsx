@@ -283,7 +283,7 @@ const obj = [
   },
   {
     id:31,
-    img:'https://www.guvi.in/blog/wp-content/uploads/2023/04/javascript-animated-image.jpg',
+    img:'https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp',
     desc:'Master JavaScript Frontend Roadmap: From Novice to Expert [2024]',
     desc1:'Are you eager to learn JavaScript? Want to dive deep into the JavaScript frontend roadmap?',
     course:'Career',
@@ -301,7 +301,7 @@ const obj = [
   },
 {
     id:33,
-    img:'https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg',
+    img:'https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp',
     desc:'UI/UX Designer Job Description and Roles & Responsibilities',
     desc1:'UI UX is the abbreviated word that’s been rocking the trend over the years, especially',
     course:'Career',
